@@ -1,0 +1,31 @@
+body {
+  background: #f1e5d2;
+}
+
+h1 {
+  text-align: center;
+}
+
+.summary-about-croissant {
+  line-height: 150%;
+}
+
+.pastry {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+.contact-link {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  margin: 0 10px;
+  color: rgb(145, 21, 172);
+}
